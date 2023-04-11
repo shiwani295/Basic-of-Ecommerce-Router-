@@ -1,0 +1,10 @@
+.EventHead{
+    text-align: center;
+}
+.PrductList{
+    display: grid;
+    text-align: center;
+}
+.ProductLink{
+    text-decoration: none;
+}

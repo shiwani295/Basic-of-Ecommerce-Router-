@@ -1,0 +1,13 @@
+1 useNavigate use kia 
+2 click pe product detail a jaye to id route ke through bheji detail page pe the vo eventpage h usse bheji using useParams
+3 is active and undefined deha home page pe
+4 root layout me outlate use kia ki paratent route element ko childern routen element pe laa sake and we are using app.js me this createbrowers features
+5 start with / this is a absolute path
+or without / url is relative path
+(If a path starts with a slash, with a leading forward slash,
+then it is an absolute path.)
+6 whenever you are using link with relatives use retative props 
+7 .. using this (two donr in eventdetailpage)from moving around in your system terminal,
+which simply means go up one level.
+Please go back to the previously active path and route.
+Now with that added here, I'll go back to events.js
